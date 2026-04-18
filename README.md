@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hasan-Mahadi/Quran-Web-Application-Frontend/main/public/quran-logo.png" alt="Quran App Logo" width="120" />
-  <h1 align="center">📖 Quran Web Application</h1>
+  <h1 align="center">Quran Web Application</h1>
   <p align="center">
     <strong>A modern, full-stack Quran reading platform with beautiful Arabic calligraphy, advanced search, and customizable reading experience</strong>
   </p>
   <p align="center">
-    <a href="https://quran-web-apps.netlify.app/" target="_blank">🌐 Live Demo</a> •
-    <a href="https://github.com/Hasan-Mahadi/Quran-Web-Application-Frontend" target="_blank">🎨 Frontend Repo</a> •
-    <a href="https://github.com/Hasan-Mahadi/Quran-Web-Application-Backend" target="_blank">🔧 Backend Repo</a>
+    <a href="https://quran-web-apps.netlify.app/" target="_blank">Live Demo</a> •
+    <a href="https://github.com/Hasan-Mahadi/Quran-Web-Application-Frontend" target="_blank">Frontend Repo</a> •
+    <a href="https://github.com/Hasan-Mahadi/Quran-Web-Application-Backend" target="_blank">Backend Repo</a>
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/Next.js-16.2.4-black?style=flat-square&logo=next.js" alt="Next.js" />
@@ -20,22 +19,7 @@
 
 ---
 
-## 📋 Table of Contents
 
-- [✨ Features](#-features)
-- [🏗️ System Architecture](#️-system-architecture)
-- [🖥️ Frontend Structure](#️-frontend-structure)
-- [⚙️ Backend Structure](#️-backend-structure)
-- [📚 API Documentation](#-api-documentation)
-- [🚀 Getting Started](#-getting-started)
-- [🎨 Technology Stack](#-technology-stack)
-- [📱 Responsive Design](#-responsive-design)
-- [🔧 Troubleshooting](#-troubleshooting)
-- [🚢 Deployment](#-deployment)
-- [📈 Performance](#-performance)
-- [👨‍💻 Developer](#-developer)
-
----
 
 ## ✨ Features
 
@@ -63,7 +47,7 @@
 
 ---
 
-## 🏗️ System Architecture
+# 🏗️ System Architecture
 ┌─────────────────────────────────────────────────────────────┐
 │ Client Browser │
 │ (User Interface) │
@@ -106,26 +90,25 @@
 └─────────────────────────────────────────────────────────────┘
 
 
-## 📚 API Documentation
+# 📚 API Documentation
 
 ### Base URL
 Development: http://localhost:5000/api
 Production: https://quran-web-apps.netlify.app/
 
-🚀 Getting Started
+
+# 🚀 Getting Started
 Prerequisites
 Node.js 18+
 
-npm 9+ or yarn 1.22+
-
-Installation
+# Installation
 1. Clone both repositories
 bash
-# Frontend
+## Frontend
 git clone https://github.com/Hasan-Mahadi/Quran-Web-Application-Frontend.git
 cd Quran-Web-Application-Frontend
 
-# Backend (in separate directory)
+## Backend (in separate directory)
 cd ..
 git clone https://github.com/Hasan-Mahadi/Quran-Web-Application-Backend.git
 cd Quran-Web-Application-Backend
@@ -167,11 +150,11 @@ NEXT_PUBLIC_API_URL=http://localhost:5000/api
 8. Start Frontend Development Server
 bash
 npm run dev
-# App runs on http://localhost:3000
+## App runs on http://localhost:3000
 9. Open Your Browser
 Visit http://localhost:3000 to see the application.
 
-🔐 Environment Variables
+#🔐 Environment Variables
 Frontend (.env.local)
 env
 NEXT_PUBLIC_API_URL=http://localhost:5000/api
@@ -187,24 +170,24 @@ FRONTEND_URL=http://localhost:3000
 # FRONTEND_URL=https://your-frontend-url.netlify.app
 
 
-📄 License
+## 📄 License
 This project is open source and available under the MIT License.
 
-📞 Support
+## 📞 Support
 For issues, questions, or contributions:
 
-GitHub Issues: Create an issue
+GitHub Issues: [Create an issue](https://github.com/Hasan-Mahadi/Quran-Web-Application-Frontend/issues)
 
 Live Demo: https://quran-web-apps.netlify.app/
 
-👨‍💻 Developer
+## 👨‍💻 Developer
 Hasan Mahadi
 
-GitHub: @Hasan-Mahadi
+GitHub: [@Hasan-Mahadi](https://github.com/Hasan-Mahadi)
 
-Frontend Repo: Quran-Web-Application-Frontend
+Frontend Repo: [Quran-Web-Application-Frontend](https://github.com/Hasan-Mahadi/Quran-Web-Application-Frontend.git)
 
-Backend Repo: Quran-Web-Application-Backend
+Backend Repo: [Quran-Web-Application-Backend](https://github.com/Hasan-Mahadi/Quran-Web-Application-Backend.git)
 
 Live App: https://quran-web-apps.netlify.app/
 
