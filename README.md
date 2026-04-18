@@ -191,4 +191,4 @@ Backend Repo: [Quran-Web-Application-Backend](https://github.com/Hasan-Mahadi/Qu
 
 Live App: https://quran-web-apps.netlify.app/
 
-<div align="center"> <sub>Built with ❤️ for the Ummah</sub> <br /> <sub>© 2024 Hasan Mahadi. All rights reserved.</sub> </div> ```
+<div align="center"> <sub>Built with ❤️ for the Ummah</sub> </div> ```
